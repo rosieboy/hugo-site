@@ -180,8 +180,8 @@ canonifyURLs = true
   #vimeo            = ""
   whatsapp         = "46730391049" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat         = "andersrosen"
-   # qq             = "" # User ID Number
+    #wechat         = "andersrosen"
+    #qq             = "" # User ID Number
   instagram        = "mugglans"
   #tumblr           = ""
   #twitter          = "example"
